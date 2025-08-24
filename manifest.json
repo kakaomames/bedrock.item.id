@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "(バージョン0.0.6、リリース日 25.2.16 更新日 25.8.4) アイテムidを表示するリソースパックです。アイテムidを忘れたときに使えます。",
+        "name": "アイテムid表示リソースパック",
+        "uuid": "cb48f540-e575-4551-a1c6-33c56738a6ca",
+        "version": [0, 0, 6],
+        "min_engine_version": [ 1, 21, 50 ]
+    },
+    "modules": [
+        {
+            "description": "item id resource pack",
+            "type": "resources",
+            "uuid": "2a438ea4-5735-4e7f-8c8d-55ad343ae0a0",
+            "version": [0, 0, 1]
+        }
+    ]
+}
